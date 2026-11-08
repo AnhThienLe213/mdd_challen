@@ -1,2 +1,6 @@
-jiwer
+numpy
+pandas
+scikit-learn
+torch
+torchaudio
 transformers
